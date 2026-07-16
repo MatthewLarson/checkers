@@ -10,8 +10,20 @@
   },
   "assets": [
     "originals/chess-set-1k-board.glb",
+    "originals/Onyx015_1K-JPG_Roughness.jpg",
+    "originals/Onyx015_1K-JPG_NormalGL.jpg",
+    "originals/Onyx015_1K-JPG_NormalDX.jpg",
+    "originals/Onyx015_1K-JPG_Displacement.jpg",
+    "originals/Onyx015_1K-JPG_Color.jpg",
+    "originals/Onyx015.png",
     "models/chess-set-1k-board.meta.json",
-    "models/chess-set-1k-board.glb"
+    "models/chess-set-1k-board.glb",
+    "Onyx015_1K-JPG_Roughness.webp",
+    "Onyx015_1K-JPG_NormalGL.webp",
+    "Onyx015_1K-JPG_NormalDX.webp",
+    "Onyx015_1K-JPG_Displacement.webp",
+    "Onyx015_1K-JPG_Color.webp",
+    "Onyx015.webp"
   ],
   "compatibility": {
     "engine": ">=0.1 <1.0"
