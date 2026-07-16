@@ -1,0 +1,2 @@
+# checkers
+DiceyTable scene: Checkers
